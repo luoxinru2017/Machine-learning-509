@@ -1,0 +1,7 @@
+1. The middle boundary x1=7.5 is chosen. 
+2. margin = 2.
+3. 6-10 would receive panelty. 6-10 would be the support vectors.
+4. Total penalty: 0.25+0.25+0.75+1.75+2.25=5.75
+( If the margin is near to zero, the penalty would be infinite).
+5. Yes, the current penalty is smaller than 6, so the margin could be larger.
+6. Yes.8 and 9.
